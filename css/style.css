@@ -1,0 +1,31 @@
+html{
+	height: 100%;
+}
+
+body {
+  	background: #007bff;
+    background: linear-gradient(0deg, rgb(69, 144, 205) 0%, rgba(14,71,161,1) 100%);
+}
+
+.card-signin {
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.logo{
+	padding: 20px;
+	margin: auto;
+}
+
+.nav-logo{
+	width: 100px;
+    filter: brightness(0) invert(0.7);
+}
+
+.map{
+	position: absolute;
+    right: 15px;
+    bottom: 30px;
+    width: 30px;
+}
